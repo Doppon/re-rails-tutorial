@@ -1,5 +1,4 @@
 ## 全体リファレンス
-
 - [Ruby on Rails Tutorial](https://railstutorial.jp/)
 - [Railsを始めてsqlite3まわりのエラーで躓いている人たちへ](https://qiita.com/Kta-M/items/254a1ba141827a989cb7)
 
