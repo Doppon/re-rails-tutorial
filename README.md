@@ -10,3 +10,4 @@
 - なし
 
 ### 第3章 リファレンス
+- [静的なページの生成 | コントローラー名は表記をキャメルケースに](https://railstutorial.jp/chapters/static_pages?version=5.1#sec-generated_static_pages)
