@@ -12,4 +12,5 @@
 ### 第3章 リファレンス
 - [静的なページの生成 | コントローラー名は表記をキャメルケースに](https://railstutorial.jp/chapters/static_pages?version=5.1#sec-generated_static_pages)
 - [テストから始める](https://railstutorial.jp/chapters/static_pages?version=5.1#sec-getting_started_with_testing)
+- [コードの腐敗臭](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AD%E3%81%84)
 - [高度なセットアップ](https://railstutorial.jp/chapters/static_pages?version=5.1#sec-advanced_testing_setup)
