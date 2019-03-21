@@ -17,3 +17,4 @@
 
 ### 第4章 リファレンス
 - [Rubyのメソッドの引数受け渡しまとめ - Qiita | デフォルト式あり引数](https://qiita.com/raccy/items/1168c7e8849dedf70fa4#%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E5%BC%8F%E3%81%82%E3%82%8A%E5%BC%95%E6%95%B0)
+- [Rubyのメソッドの引数でデフォルト式を与える場合は、通常の引数ではなく「キーワード引数」を使おう](https://qiita.com/aeroastro/items/49e18cb7e95a64e0eacf)
