@@ -21,3 +21,4 @@
 - [シンプルなテキストエディタ「nano」](https://www.nano-editor.org/)
 - [4.2.4 メソッドの定義](https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-method_definitions)
 - [るりまサーチ](https://docs.ruby-lang.org/ja/search/)
+- [4.4.2 クラス継承](https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_class_of_our_own)
