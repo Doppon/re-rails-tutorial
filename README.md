@@ -20,3 +20,4 @@
 - [Rubyのメソッドの引数でデフォルト式を与える場合は、通常の引数ではなく「キーワード引数」を使おう](https://qiita.com/aeroastro/items/49e18cb7e95a64e0eacf)
 - [シンプルなテキストエディタ「nano」](https://www.nano-editor.org/)
 - [4.2.4 メソッドの定義](https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-method_definitions)
+- [るりまサーチ](https://docs.ruby-lang.org/ja/search/)
